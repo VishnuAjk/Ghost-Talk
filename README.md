@@ -22,16 +22,20 @@ Users can see who is online, chat with multiple users at the same time, and view
 ## Screenshots
 
 1. User's Interface
-   ![initialUserPage](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/29114645-52ba-4c89-8a40-c6d29d86d638)
+   
+![initialUserPage](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/29114645-52ba-4c89-8a40-c6d29d86d638)
 
 2. Two User's Connected
-   ![twoUsersJoined](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/4a43430b-0f38-44fc-988e-6a05d0abd08c)
+   
+ ![twoUsersJoined](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/4a43430b-0f38-44fc-988e-6a05d0abd08c)
 
 3. Chat View
-   ![chatBtwnUsers](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/271a21f9-4786-46a4-9145-12da2827ea12)
+   
+ ![chatBtwnUsers](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/271a21f9-4786-46a4-9145-12da2827ea12)
 
 4. persistent storage of Chats
-   ![prevMessgesload](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/75a3bedf-8f25-416c-8d71-101ef39313bc)
+   
+![prevMessgesload](https://github.com/VishnuAjk/Ghost-Talk/assets/145429961/75a3bedf-8f25-416c-8d71-101ef39313bc)
 
 ## Installation
 
